@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              kartik.sahajpal1004@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Kartik Sahajpal
-baseurl:            ""
+baseurl:            "/home"
 url:                "https://kar10tik.github.io"
 
 # Social Profiles
